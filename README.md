@@ -1,1 +1,4 @@
-Supervise learning
+Supervised learning
+Regression
+Classification
+
